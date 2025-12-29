@@ -74,5 +74,22 @@
     "trl": 8,
     "efficiency_record": "28.6% (Commercial Module)",
     "status": "Early Commercial"
+  },
+  {
+    "company": "Climeworks",
+    "technology": "Direct Air Capture (DAC)",
+    "category": "Carbon Removal",
+    "trl": 8,
+    "capture_capacity": "36,000 tons/year (Mammoth)",
+    "status": "Commercial Operations"
+  },
+  {
+    "company": "Equinor",
+    "technology": "Hywind (Floating Wind)",
+    "category": "Offshore Wind",
+    "trl": 9,
+    "capacity_mw": "88 (Hywind Tampen)",
+    "depth_limit": ">60m",
+    "status": "Commercial Operations"
   }
 ]
