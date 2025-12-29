@@ -57,5 +57,22 @@
     "trl": 8,
     "efficiency_electrical": ">90% (w/ heat)",
     "status": "Commercial Early Deployed"
+  },
+  {
+    "company": "Fervo Energy",
+    "technology": "Enhanced Geothermal (EGS)",
+    "category": "Renewables",
+    "trl": 7,
+    "capacity_mw": "3.5 (Pilot)",
+    "partnership": "Google",
+    "status": "Commercial Pilot"
+  },
+  {
+    "company": "Oxford PV",
+    "technology": "Perovskite Tandem",
+    "category": "Renewables",
+    "trl": 8,
+    "efficiency_record": "28.6% (Commercial Module)",
+    "status": "Early Commercial"
   }
 ]
