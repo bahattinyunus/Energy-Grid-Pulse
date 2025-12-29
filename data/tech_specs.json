@@ -1,0 +1,36 @@
+[
+  {
+    "company": "Tesla Energy",
+    "technology": "Megapack",
+    "category": "Storage",
+    "trl": 9,
+    "capacity_mwh": 3.9,
+    "chemistry": "LFP",
+    "status": "Commercial"
+  },
+  {
+    "company": "Siemens Energy",
+    "technology": "SGT-400 H2",
+    "category": "Hydrogen Generation/Turbine",
+    "trl": 7,
+    "efficiency_target": "Combined Cycle > 60%",
+    "status": "Pilot Demo"
+  },
+  {
+    "company": "Helion Energy",
+    "technology": "Polaris",
+    "category": "Fusion",
+    "trl": 4,
+    "fuel": "Deuterium-Helium3",
+    "target_online": 2028,
+    "status": "Lab Validation"
+  },
+  {
+    "company": "NuScale",
+    "technology": "VOYGR SMR",
+    "category": "Nuclear",
+    "trl": 6,
+    "capacity_mwe": 77,
+    "status": "Design Approved"
+  }
+]
