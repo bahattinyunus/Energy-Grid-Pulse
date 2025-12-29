@@ -91,5 +91,29 @@
     "capacity_mw": "88 (Hywind Tampen)",
     "depth_limit": ">60m",
     "status": "Commercial Operations"
+  },
+  {
+    "company": "Energy Vault",
+    "technology": "EVx (Gravity)",
+    "category": "Long Duration Storage",
+    "trl": 7,
+    "location": "Rudong, China",
+    "status": "Commercial Pilot"
+  },
+  {
+    "company": "TerraPower",
+    "technology": "Natrium",
+    "category": "Nuclear",
+    "trl": 5,
+    "coolant": "Liquid Sodium",
+    "status": "Construction Permit Submitted"
+  },
+  {
+    "company": "Redwood Materials",
+    "technology": "Li-Ion Recycling",
+    "category": "Circular Economy",
+    "trl": 9,
+    "recovery_rate": ">95%",
+    "status": "Commercial Operations"
   }
 ]
