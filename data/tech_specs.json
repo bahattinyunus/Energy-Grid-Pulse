@@ -32,5 +32,13 @@
     "trl": 6,
     "capacity_mwe": 77,
     "status": "Design Approved"
+  },
+  {
+    "company": "QuantumScape",
+    "technology": "QSE-5",
+    "category": "Solid State Battery",
+    "trl": 5,
+    "energy_density_target": "800+ Wh/L",
+    "status": "B-Sample Prototype"
   }
 ]
