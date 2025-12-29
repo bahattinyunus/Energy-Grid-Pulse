@@ -40,5 +40,22 @@
     "trl": 5,
     "energy_density_target": "800+ Wh/L",
     "status": "B-Sample Prototype"
+  },
+  {
+    "company": "Form Energy",
+    "technology": "Iron-Air Battery",
+    "category": "Long Duration Storage",
+    "trl": 6,
+    "duration_hours": 100,
+    "cost_target": "<$20/kWh",
+    "status": "Pilot Production"
+  },
+  {
+    "company": "Bloom Energy",
+    "technology": "SOEC",
+    "category": "Hydrogen Generation",
+    "trl": 8,
+    "efficiency_electrical": ">90% (w/ heat)",
+    "status": "Commercial Early Deployed"
   }
 ]
